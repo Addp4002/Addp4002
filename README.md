@@ -1,75 +1,86 @@
-# 👋 Hey there, I'm Arghya Dandapat
+<h1 align="center">Hi 👋, I'm Arghya Dandapat</h1>
+<h3 align="center">ECE Student | Software Developer | Problem Solver | Tech Enthusiast</h3>
 
-🚀 **ECE Student | Tech Explorer | Problem Solver | Developer**
-
-Welcome to my GitHub! I'm someone who lives at the intersection of **Electronics**, **Core Computer Science**, and **Software Development**. I love building things that combine logic, creativity, and real-world impact.
+<p align="center">
+Bridging <b>Electronics</b> ⚡ and <b>Computer Science</b> 💻 to build real-world tech solutions.
+</p>
 
 ---
 
 ## 🧠 About Me
 
-🎓 Background in **Electronics & Communication Engineering (ECE)**  
-💻 Strong foundation in **Core Computer Science**  
-⚡ Passionate about **Programming & Frontend Development**  
-🛠️ I enjoy turning ideas into real, working applications  
+🎓 Electronics & Communication Engineering (ECE) background  
+💡 Strong knowledge of **Core Computer Science fundamentals**  
+👨‍💻 Passionate about **Programming, Web Development & Problem Solving**  
+🚀 Love building projects that combine **logic, design, and technology**
 
-I believe in learning by building and constantly improving my skills through projects and problem-solving.
+I enjoy transforming ideas into real applications and continuously learning new tools and technologies.
 
 ---
 
 ## 🚀 Tech Stack
 
-### 👨‍💻 Programming Languages
-- **C++** – Data Structures, Algorithms, Problem Solving  
-- **JavaScript** – Logic + Web Interactivity  
-- **SQL** – Databases & Querying  
+### 💻 Programming & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,js,sql" />
+</p>
 
-### 🌐 Web Development
-- **React.js** ⚛️  
-- **HTML5**  
-- **CSS3**  
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
 
 ### 🧰 Tools & Platforms
-- **Git & GitHub**  
-- VS Code  
-- Browser DevTools  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-## 💡 What I Work On
+## 💡 Areas of Interest
 
-✨ Frontend Web Applications  
-✨ Logic Building & DSA in C++  
-✨ Database-driven projects  
-✨ Tech that connects hardware + software  
-
----
-
-## 🎯 Interests
-
-- Software Development  
-- Web Technologies  
-- Problem Solving  
-- Electronics + Computing Integration  
-- Learning new technologies  
+- ⚛️ Frontend Development with React.js  
+- 🧮 Data Structures & Algorithms  
+- 🗄️ Database Systems  
+- ⚡ Electronics + Software Integration  
+- 🧠 Logical Problem Solving  
 
 ---
 
-## 📈 GitHub Goals
+## 📌 What You’ll Find on My GitHub
 
-✔ Build meaningful projects  
-✔ Improve coding efficiency  
-✔ Explore advanced web & software development  
-✔ Contribute to open-source  
+🔹 Web Development Projects  
+🔹 DSA & C++ Problem-Solving Codes  
+🔹 Database-based Applications  
+🔹 Learning-based and Experimental Projects  
+
+---
+
+## 🎯 Current Goals
+
+✔ Build scalable and impactful projects  
+✔ Strengthen problem-solving and system design  
+✔ Explore advanced web technologies  
+✔ Contribute to open-source projects  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-If you like tech, coding, or building cool things — we’ll get along great!  
-Feel free to explore my repositories and drop a ⭐ if you like something.
+I’m always open to learning, collaboration, and exciting tech discussions.  
+Feel free to explore my repositories and connect!
 
 ---
 
-⭐ *"Code. Learn. Build. Repeat."*
-
+<p align="center">
+⭐ <b>"Build. Break. Learn. Repeat."</b> ⭐
+</p>
