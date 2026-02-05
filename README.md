@@ -1,26 +1,26 @@
 <h1 align="center">Hi 👋, I'm Arghya Dandapat</h1>
-<h3 align="center">ECE Student | Software Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">ECE Undergraduate | Software Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
-Bridging <b>Electronics</b> ⚡ and <b>Computer Science</b> 💻 to build real-world tech solutions.
+Blending <b>Electronics</b> ⚡ + <b>Computer Science</b> 💻 to build efficient, scalable, and real-world tech solutions.
 </p>
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-🎓 Electronics & Communication Engineering (ECE) background  
-💡 Strong knowledge of **Core Computer Science fundamentals**  
-👨‍💻 Passionate about **Programming, Web Development & Problem Solving**  
-🚀 Love building projects that combine **logic, design, and technology**
+🎓 Electronics & Communication Engineering student with strong **Core CS fundamentals**  
+💻 Passionate about **Software Development, Frontend Engineering, and Problem Solving**  
+🧠 Strong grasp of **Data Structures, Algorithms, and System Logic**  
+⚡ Interested in systems that connect **hardware + software + user experience**
 
-I enjoy transforming ideas into real applications and continuously learning new tools and technologies.
+I focus on writing clean code, building practical projects, and continuously improving through hands-on learning.
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-### 💻 Programming & Databases
+### 💻 Programming
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,js,sql" />
 </p>
@@ -30,57 +30,70 @@ I enjoy transforming ideas into real applications and continuously learning new 
   <img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
-### 🧰 Tools & Platforms
+### 🧰 Tools & Workflow
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 💡 Areas of Interest
+## 🧩 Core Strengths
 
-- ⚛️ Frontend Development with React.js  
-- 🧮 Data Structures & Algorithms  
-- 🗄️ Database Systems  
-- ⚡ Electronics + Software Integration  
-- 🧠 Logical Problem Solving  
-
----
-
-## 📌 What You’ll Find on My GitHub
-
-🔹 Web Development Projects  
-🔹 DSA & C++ Problem-Solving Codes  
-🔹 Database-based Applications  
-🔹 Learning-based and Experimental Projects  
+✔ Data Structures & Algorithms (C++)  
+✔ Problem Solving & Logical Thinking  
+✔ Frontend Development using React.js  
+✔ Database Fundamentals (SQL)  
+✔ Strong Engineering Fundamentals from ECE  
 
 ---
 
-## 🎯 Current Goals
+## 💡 Engineering Interests
 
-✔ Build scalable and impactful projects  
-✔ Strengthen problem-solving and system design  
-✔ Explore advanced web technologies  
-✔ Contribute to open-source projects  
+- Scalable Web Applications  
+- System Design Fundamentals  
+- Electronics + Computing Integration  
+- Performance Optimization  
+- Real-world Problem Solving  
 
 ---
 
-## 📊 GitHub Stats
+## 📌 What I Build
+
+🔹 Web Applications with interactive UI  
+🔹 DSA & Algorithmic problem-solving solutions  
+🔹 Database-integrated projects  
+🔹 Practical engineering-based projects  
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 🎯 Current Focus
 
-I’m always open to learning, collaboration, and exciting tech discussions.  
-Feel free to explore my repositories and connect!
+🚀 Improving problem-solving depth  
+🚀 Building production-style projects  
+🚀 Strengthening system-level understanding  
+🚀 Exploring advanced frontend and software engineering concepts  
+
+---
+
+## 🤝 Open to
+
+- Collaboration on projects  
+- Open-source contributions  
+- Tech discussions  
+- Learning opportunities  
 
 ---
 
 <p align="center">
-⭐ <b>"Build. Break. Learn. Repeat."</b> ⭐
+⭐ <b>"Engineer the solution. Optimize the process. Never stop learning."</b> ⭐
 </p>
