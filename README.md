@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [Arghya Dandapat]
+# 👋 Hey there, I'm Arghya Dandapat
 
 🚀 **ECE Student | Tech Explorer | Problem Solver | Developer**
 
