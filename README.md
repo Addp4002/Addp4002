@@ -2,6 +2,10 @@
 <h3 align="center">ECE Undergraduate | Software Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=ECE+Student+%7C+Software+Developer;React.js+Frontend+Developer;DSA+%7C+C%2B%2B+Programmer;Building+Real+World+Tech+Solutions" />
+</p>
+
+<p align="center">
 Blending <b>Electronics</b> ⚡ + <b>Computer Science</b> 💻 to build efficient, scalable, and real-world tech solutions.
 </p>
 
@@ -66,6 +70,36 @@ I focus on writing clean code, building practical projects, and continuously imp
 
 ---
 
+## 📈 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Addp4002&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Addp4002&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Addp4002&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (Animated)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Addp4002/Addp4002/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🏆 Dynamic Badges
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Addp4002&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Addp4002?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/Addp4002?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" />
+</p>
+
+---
 
 ## 🎯 Current Focus
 
