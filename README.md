@@ -36,7 +36,7 @@ I focus on writing clean code, building practical projects, and continuously imp
 
 ### 🧰 Tools & Workflow
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,cadence" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
