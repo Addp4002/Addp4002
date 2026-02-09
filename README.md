@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arghya Dandapat</h1>
-<h3 align="center">ECE Undergraduate | Software Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">Engineer to be | Aspiring Software Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=ECE+Student+%7C+Software+Developer;React.js+Frontend+Developer;DSA+%7C+C%2B%2B+Programmer;Building+Real+World+Tech+Solutions" />
@@ -13,10 +13,10 @@ Blending <b>Electronics</b> ⚡ + <b>Computer Science</b> 💻 to build efficien
 
 ## 🚀 About Me
 
-🎓 Electronics & Communication Engineering student with strong **Core CS fundamentals**  
+🎓 Electronics & Communication Engineering student with  **Core CS fundamentals**  
 💻 Passionate about **Software Development, Frontend Engineering, and Problem Solving**  
 🧠 Strong grasp of **Data Structures, Algorithms, and System Logic**  
-⚡ Interested in systems that connect **hardware + software + user experience**
+⚡ Interested in systems that connect **hardware + software + user experience + embedded AI knowledge**
 
 I focus on writing clean code, building practical projects, and continuously improving through hands-on learning.
 
@@ -36,7 +36,7 @@ I focus on writing clean code, building practical projects, and continuously imp
 
 ### 🧰 Tools & Workflow
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,cadence" />
 </p>
 
 ---
